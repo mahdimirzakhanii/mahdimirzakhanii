@@ -14,6 +14,5 @@ I'm a young Front-End developer exploring React.js. Currently learning to enhanc
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdimirzakhanii&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mahdimirzakhanii&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
