@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Mahdi Mirzakhani :
+I'm Mahdi Mirzakhani
 I'm a young Front-End developer exploring React.js. Currently learning to enhance my skills.
 
 
